@@ -18,6 +18,9 @@
 		<!-- en-GB -->
 		<language tag="en-GB">language/en-GB/en-GB.plg_system_dsconstant.ini</language>
 		<language tag="en-GB">language/en-GB/en-GB.plg_system_dsconstant.sys.ini</language>
+		<!-- fr-FR -->
+		<language tag="fr-FR">language/fr-FR/fr-FR.plg_system_dsconstant.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.plg_system_dsconstant.sys.ini</language>
 	</languages>
 	<config>
 	<fields name="params">

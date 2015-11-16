@@ -3,9 +3,8 @@
  * @package     Joomla.Plugin
  * @subpackage  System.Dsconstant
  *
- * @author      Roberto Segura <roberto@phproberto.com>
- * @copyright   (c) 2012 Digital Disseny. All Rights Reserved.
- * @license     GNU/GPL 2, http://www.gnu.org/licenses/gpl-2.0.htm
+ * @copyright   Copyright (C) 2012-1015 digitaldissent.com - All rights reserved.
+ * @license     GNU General Public License version 2 or later; see LICENSE
  */
 
 defined('_JEXEC') or die;
@@ -15,15 +14,11 @@ JLoader::import('joomla.plugin.plugin');
 /**
  * Main plugin class
  *
- * @version     30/09/2012
- * @package     Joomla.Plugin
- * @subpackage  System.Dsconstant
- * @since       3.0
+ * @since  1.0
  *
  */
 class PlgSystemDsconstant extends JPlugin
 {
-
 	private $_params = null;
 
 	// Plugin info constants

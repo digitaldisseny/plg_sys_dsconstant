@@ -1,7 +1,8 @@
 .buildpath
 .settings/
 .project
-# nunca ignorar .gitignore ni index.html
+
+# Never .gitignore or index.html
 !.gitignore
 !index.html
 !index.php
